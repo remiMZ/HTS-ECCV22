@@ -14,10 +14,6 @@
 
 ## [Prototypical Network (proto)](https://arxiv.org/pdf/1703.05175.pdf)
 
-- Baseline_DA
-
-- Baseline_SSL
-
 - HTS_DA
 
 - HTS_SSL
